@@ -69,6 +69,11 @@ ul li {
   margin: 1rem;
 }
 
+ul li p {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
 .fun-fact-div {
   text-align: center;
   margin: 3rem 0;
